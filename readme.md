@@ -23,9 +23,10 @@ Rest-Assured for API testing.
 
 1. Login API request with valid credentials and Get Access Token
 2. Verify that the access token is not empty.
-3. Retrieve user information from the WhoAmI API using the access token.
-4. Perform a logout API request using the access token.
-5. Get the logout message from the API response.
+3. Create New User Using Java Faker Library to get Random Emails
+4. Retrieve user information from the WhoAmI API using the access token.
+5. Perform a logout API request using the access token.
+6. Get the logout message from the API response.
 
 **How to Run**
 
