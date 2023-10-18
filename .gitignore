@@ -1,0 +1,13 @@
+.idea
+target/
+allure-results/
+.DS_Store
+*.iml
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
